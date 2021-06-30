@@ -1,14 +1,14 @@
-# Week01 总结
-## Done
-1. 参与直播、回看了第1次的课程
-3. 作业完成，思路依旧需要看相关的解题分析
-4. VS Code 上，安装插件“LeetCode”，方便做题
+# Week02 总结
 
-# Not Good
-1. 第2次课程，没有看
-2. 第1、2次课程笔记没有总结、例题没有Code一遍
+## Lesson 文件
+*.cpp  为跟随老师直播时，敲的代码
 
-# TODO
-1. 补充第1、2次课程的笔记
-2. Code 例题
-3. 因为自己在线下的时候么有太多的测试集合和数据结构可以测试，导致Debug较麻烦。目前看到：https://books.halfrost.com/leetcode/ 中有相关的数据结构和测试集
+### 874 模拟行走机器人的思路图示
+
+## Homework
+1. 146-lru-cache.py
+2. 811-subdomain-visit-count.py
+
+
+## TODO
+1. 手写Python版的双向链表 + 哈希
